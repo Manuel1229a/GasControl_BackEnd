@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Base de datos
+*.db
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.swp
